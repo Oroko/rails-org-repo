@@ -33,6 +33,7 @@ gem 'bulma-rails', '~> 0.9.1'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'devise', '~> 4.7', '>= 4.7.3'
 gem 'activerecord_reset_pk_sequence'
+gem 'gravtastic', '~> 3.2', '>= 3.2.6'
 
 
 
